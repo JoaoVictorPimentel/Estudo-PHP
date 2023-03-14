@@ -2,4 +2,4 @@
 Site desenvolvido enquanto tive um treinamento em uma empresa da minha cidade.
 
 ## Tecnologias Utilizadas 
-PHP | HTML | CSS | MYSQL
+PHP | HTML | JAVASCRIPT | JQUERY | CSS | MYSQL | 
